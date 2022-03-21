@@ -13,7 +13,7 @@ int main()
 
     /* 問題４：KeyDataTbl[0]の構造体メンバから，keyElementId=1　をprintfで表示するプログラムを作成してください */
 
-    /* 問題４：KeyDataTbl[2]の構造体メンバから，keyElementId=4 を表示するプログラムを作成してください*/
+    /* 問題5：KeyDataTbl[2]の構造体メンバから，keyElementId=4 を表示するプログラムを作成してください*/
     
     
     return 0;
